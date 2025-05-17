@@ -1,7 +1,9 @@
 # -Neural-Spelling-Correction-Using-Transformer-Models
  Developed and evaluated T5 and BART-based transformer models fine-tuned on synthetically  generated noisy-clean sentence pairs, achieving robust spelling correction performance  measured by accuracy, WER, CER, and fuzzy matching metrics.
 Typo Correction Using Transformer Models (T5 & BART)
-Overview
+
+# Overview
+
 This project implements a spelling and grammar correction pipeline using transformer-based sequence-to-sequence models: T5 and BART. It simulates realistic typos and context-based word confusions to create noisy text data, trains correction models, and evaluates their performance using multiple metrics.
 
 Features
