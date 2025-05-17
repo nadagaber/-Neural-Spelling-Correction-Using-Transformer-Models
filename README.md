@@ -21,7 +21,8 @@ Multiple evaluation metrics including Accuracy, BLEU, WER, CER, Spelling Error R
 
 Generation of corrected predictions and qualitative output samples.
 
-Usage
+# Usage
+
 Data Loading:
 
 Loads and splits datasets into train, validation, and test sets.
